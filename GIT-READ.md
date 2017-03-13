@@ -3,6 +3,6 @@ Steps to Create Branch from existing Branch
 
    git pull <br>
    git branch<br>
-   git checkout -b feature_equipment_instance_F5702 feature_template_instance_F5701<br>
+   git checkout -b existing_branch new_branch<br>
    git status<br>
-   git push origin feature_equipment_instance_F5702<br>
+   git push origin new_branch<br>
